@@ -95,6 +95,14 @@ The results demonstrate that non-linear analysis predicts higher displacements t
 
 ---
 
+## Results
+
+![Composite Bar](Results/Screenshot 2025-10-08 152457.png)
+
+![Composite Bar](Results/Screenshot 2025-10-08 152450.png)
+
+---
+
 ## Key Equations
 
 **Element Stiffness:**
